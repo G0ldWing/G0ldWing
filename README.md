@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G0ldWing
-- 👀 I’m interested in NMEA, AIS, RFID
+- 👀 I’m interested in NMEA, AI, AIS, RFID
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tglx@yahoo.com
